@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-image: url('./images/main-qimg-63925d1b3dc1aa56935cd3dceebe0e94.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  /* background-position-y: center; */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

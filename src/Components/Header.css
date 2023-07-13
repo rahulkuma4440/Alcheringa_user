@@ -1,0 +1,65 @@
+.na{
+    display: flex;
+    flex: 1 1 1;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    /* border: 2px solid blue; */
+    box-shadow: 0px 5px 10px grey;
+    background-color: black;
+}
+.btnlogin{
+    background-color: rgb(240, 105, 56);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-size: x-large;
+    cursor:pointer;
+}
+.btnlogin:hover{
+    /* transform: scale(1.5, 1.5); */
+    color: rgb(240, 105, 56);
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-size: x-large;
+    cursor:pointer;
+}
+.lists{
+    /* border:1px solid red; */
+    display:flex;
+    align-items: center;
+    padding: 10px 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.lists > li{
+    display: flex;
+    font-size: x-large;
+    /* justify-content: end; */
+    text-decoration: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    color:white;
+}
+.lists > li:hover{
+    font-weight: 600;
+}
+nav{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    border-bottom: 0.5px solid rgb(26, 25, 25);
+}
+.image2{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#alcheringa{
+    font-size: xx-large;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+}
